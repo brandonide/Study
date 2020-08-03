@@ -1,7 +1,5 @@
 """Intro to Python - Part 1 - Hands-On Exercise."""
 
-
-
 import math
 import random
 
@@ -28,6 +26,8 @@ elif picked_fruit == 'strawberry':
 	print ("A strawberry is red")
 elif picked_fruit == 'banana':
 	print ("A banana is yellow")
+
+
 # TODO: Write a function that multiplies two numbers and returns the result
 # Define the function here.
 def multiply(num1, num2):
