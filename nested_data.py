@@ -1,11 +1,9 @@
-
 #!/usr/bin/env python
 """Working with nested data hands-on exercise / coding challenge."""
 
 
 import json
 import os
-import pprint
 
 # Get the absolute path for the directory where this file is located "here"
 here = os.path.abspath(os.path.dirname(__file__))
